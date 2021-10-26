@@ -1,2 +1,2 @@
 # FormAStory
-Testing knowledge of html forms. A Codecademy project
+Testing knowledge on html forms. A Codecademy project
